@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/prjy/js-tic-tac-toe#readme",
   "devDependencies": {
-    "electron": "^7.1.10"
+    "electron": "^18.3.7"
   }
 }
